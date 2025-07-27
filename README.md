@@ -8,15 +8,12 @@ This module enhances content discoverability by providing SEO optimization tools
 - **SEO Score** – Rates draft quality based on readability, keyword density, and metadata.
 - **Keyword Suggestions** – Recommends high-traffic keywords related to the topic.
 - **Meta Tag Generator** – Auto-generates optimized meta titles/descriptions.
-- **Trend Insights** – Uses external APIs (e.g., Google Trends) to suggest trending topics.
 - **Fix Recommendations** – Highlights issues like broken links or missing alt text.
 
 ## 🛠️ Technologies Used
 **Backend:** Java, Spring Boot (REST APIs)  
 **Frontend:** JavaScript, Tailwind CSS, Chart.js (for analytics)  
 **Database:** MySQL (stores SEO metrics and historical data)  
-**APIs:** Google Trends, Yoast SEO-like analysis logic  
-
 
 ## 💡 How It Works
 1. **Analyze Drafts:** Users submit content for SEO scoring.
