@@ -25,15 +25,15 @@ This module enhances content discoverability by providing SEO optimization tools
 
 ## 📸 Screenshots
 1. **SEO Dashboard**  
-   ![SEO Dashboard](https://SEODashboard.png)  
+   ![SEO Dashboard](SEODashboard.png)  
    Overview of SEO scores and key metrics for all blog posts
 
 2. **SEO Analysis**  
-   ![SEO Analysis](https://SEOAnalysis.png)  
+   ![SEO Analysis](SEOAnalysis.png)  
    Detailed analysis of a specific post with improvement suggestions
 
 3. **SEO Analysis History**  
-   ![SEO Analysis History](https://SEOAnalysisHistory.png)  
+   ![SEO Analysis History](SEOAnalysisHistory.png)  
    Historical tracking of SEO performance over time
 
 ## 👥 Authors
