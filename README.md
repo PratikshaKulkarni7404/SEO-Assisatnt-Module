@@ -29,7 +29,7 @@ This module enhances content discoverability by providing SEO optimization tools
    Overview of SEO scores and key metrics for all blog posts
 
 2. **SEO Analysis**  
-   ![SEO Analysis](SEOAnalysis.png)  
+   [![SEO Analysis](SEOAnalysis.png)](https://github.com/PratikshaKulkarni7404/SEO-Assisatnt-Module/blob/main/SEOAnalysis.png?raw=true)  
    Detailed analysis of a specific post with improvement suggestions
 
 3. **SEO Analysis History**  
