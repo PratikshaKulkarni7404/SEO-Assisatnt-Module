@@ -24,17 +24,20 @@ This module enhances content discoverability by providing SEO optimization tools
 3. **Track Performance:** Historical data visualizes keyword rankings over time.
 
 ## 📸 Screenshots
-1. **SEO Dashboard**  
+1. **SEO Dashboard**
+   Overview of SEO scores and key metrics for all blog posts 
    ![SEO Dashboard](SEODashboard.png)  
-   Overview of SEO scores and key metrics for all blog posts
+   
 
-2. **SEO Analysis**  
+3. **SEO Analysis**
+   Detailed analysis of a specific post with improvement suggestions 
    [![SEO Analysis](SEOAnalysis.png)](https://github.com/PratikshaKulkarni7404/SEO-Assisatnt-Module/blob/main/SEOAnalysis.png?raw=true)  
-   Detailed analysis of a specific post with improvement suggestions
+   
 
-3. **SEO Analysis History**  
+5. **SEO Analysis History**
+   Historical tracking of SEO performance over time  
    ![SEO Analysis History](SEOAnalysisHistory.png)  
-   Historical tracking of SEO performance over time
+   
 
 ## 👥 Authors
 1. Pratiksha Kulkarni
